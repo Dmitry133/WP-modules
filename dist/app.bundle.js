@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("app worked"),(new class{start(){console.log("game started")}}).start()})();
